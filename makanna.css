@@ -1,0 +1,286 @@
+/* navbar */
+.makaaa{
+    color: #00B98E;
+}
+.home{
+    color: #00B98E;
+}
+.appo{
+    border-radius: 10px;
+    background-color: #20c997;
+    border-color: transparent;
+}
+.manu{
+    padding-left: 432px;
+}
+.find{
+    color: #08090a;
+    font-weight: bolder;
+    
+}
+.perfect{
+    color: #00B98E;
+}
+.deal1{
+    border-radius: 100%;
+    border: 1px solid #00B98E;
+    border-style: dashed;
+    
+}
+.get{
+    padding: 12px;
+    background-color:#00B98E;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.carousel1{
+    border-radius: 100%;
+    border: 2px;
+    padding: 10px;
+    background-color: #20c997;    
+}
+.carousel1:hover{
+    background-color: #08090a;
+}
+.form{
+    background-color: #00B98E;
+    height: auto;
+    padding: 30px;
+}
+.search{
+    background-color: #08090a;
+    color: #ffffff;
+    text-align: center;
+    border-radius: px;
+}
+.column1{
+    background-color: #EFFDF5;
+    ;
+}
+.rounded{
+    background: #FFFFFF;
+    border: 1px dashed rgba(0, 185, 142, .3);
+}
+.span2{
+    color: #00B98E;
+}
+.rounded:hover{
+    background-color: #00B98E;
+    border-color: transparent;
+    color: #FFFFFF;
+}
+.deal{
+    border-radius: 100%;
+    border: 1px solid #00B98E;
+    border-style: dashed;
+    background-color: white;
+    
+}
+.bg-3{
+    background-color: #00B98E;
+}
+.place{
+    font-weight: bold;
+    color: #08090a;
+}
+.the{
+    color:#666565 ;
+}
+.aaa{
+    padding-top: 100px;
+}
+.sell1{
+    border-radius: 3px;
+    border-color: transparent;
+    background-color: #00B98E;
+    color: #FFFFFF;
+}
+.sell{
+    border-radius: 3px;
+    border-color: #00B98E;
+    background-color: #FFFFFF;
+
+}
+.sell:hover{
+    background-color: #00B98E;
+    color: #ffffff;
+}
+.kashi{
+position: relative;
+    content: "";
+    top: 0;
+    left: -50%;
+    width: 100%;
+    height: 100%;
+    background: #00B98E;
+    transform: skew(20deg);
+    z-index: 1 !important;
+}
+.zoom:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+  
+}
+.salb{
+    background-color: #00B98E;
+    color: #FFFFFF;
+    border-radius: 2px;
+    
+}
+.nih{
+    border-radius: 3px;
+}
+.one1{
+   box-shadow:  0 0 30px rgba(0, 0, 0, .08);border-radius: 3px;
+
+}
+.proper{
+    max-width: 100%;
+    height: auto;
+}
+.new{
+    color: #00B98E;
+}
+.gold:hover{
+    color: #00B98E;
+}
+.bath{
+    color: #666565;
+}
+.browse{
+ background-color: #00B98E;
+ border-color: #00B98E;
+ border-radius: 3px;
+ 
+}
+a{
+    text-decoration: none;
+}
+.minna{
+    border-radius: 5px;
+    background-color: #EFFDF5 !important;
+}
+.minn2{
+    border-radius: 5px;
+    border: 1px dashed rgba(0, 185, 142, .3);
+}
+.action{
+    border-radius: 4px;
+}
+.make{
+    background-color: #00B98E;
+    border-radius: 5px;
+}
+.get{
+    background-color: #08090a;
+    border-radius: 5px;
+}
+
+.bi{
+    color: #00B98E;
+}
+.qwe{
+    left: 50%;
+    top: auto;
+    
+    
+}
+.abcde{
+    background-color: #00B98E;
+    color:#ffffff;
+    border-radius: 100px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+   
+}
+.abcde:hover{
+    background-color: #ffffff;
+    color: #00B98E;
+}
+
+.abcdef{
+    background-color: #ffffff;
+    color:#00B98E;
+    border-radius: 100px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+   
+}
+.abcdef:hover{
+    background-color: #00B98E;
+    color:#ffffff;
+
+}
+.test{
+    border-radius: 6px;
+}
+.addr{
+    background-color: #04233b;
+    height: auto;
+}
+.colors{
+    color: #666565;;
+}
+.zxcvb{
+    background-color:#666565;
+    color:#04233b ;
+    width: 26px;
+    height: 26px;
+    border-radius: 16px;
+background-size: cover;
+justify-content: center;
+   
+
+}
+.zxcvb:hover{
+   
+}
+.zxcvbn{
+    background-color: #04233b;
+    color:#666565 ;
+    width: 27px;
+    height: 27px;
+    border-radius: 16px;
+background-size: cover;
+
+}
+.zxcvbn:hover{
+    color: #00B98E;
+    background-color:white;
+
+}
+.arrow{
+    color: #666565;
+}
+.monus{
+    max-width: 100%;
+    height: auto;
+    overflow: content-box;
+overflow: clip;}
+.ghgh{
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    padding: 4px;
+}
+.awwa{
+    height: 57px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.sing{
+    position: absolute;
+    te
+ 
+}
+    
